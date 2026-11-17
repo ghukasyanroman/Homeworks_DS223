@@ -1,0 +1,14 @@
+year,households_millions,microwave_ownership_pct,source_id,source_url
+1978,77.0,8.0,R3,https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0206
+1979,78.0,,R3,https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0206
+1980,82.0,14.0,R3,https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0206
+1981,83.0,17.0,R3,https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0206
+1982,84.0,21.0,R3,https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0206
+1984,86.0,34.0,R3,https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0206
+1987,91.0,61.0,R3,https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0206
+1990,94.0,79.0,R3,https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0206
+1993,97.0,84.0,R3,https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0206
+1997,101.0,83.0,R3,https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0206
+2001,107.0,86.0,R3,https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0206
+2005,111.0,88.0,R3,https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0206
+2009,114.0,96.0,R3,https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0206
